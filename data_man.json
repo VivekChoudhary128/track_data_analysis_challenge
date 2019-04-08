@@ -1,0 +1,865 @@
+{
+    "features": [
+        {   
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62152,
+                    51.9552
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7a7",
+                "time": "2013-06-08T11:34:07Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "CO2": {
+                        "value": 3.16,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 2.8777240481199176E-4,
+                        "unit": "l/s"
+                    },
+                    "Consumption": {
+                        "value": 6.762651513081806E-4,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62152,
+                    51.9552
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf71",
+                "time": "2013-06-08T11:34:07Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "CO2": {
+                        "value": 3.16,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 2.8777240481199176E-4,
+                        "unit": "l/s"
+                    },
+                    "Consumption": {
+                        "value": 6.762651513081806E-4,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62161,
+                    51.9552
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7a9",
+                "time": "2013-06-08T11:34:14Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "Consumption": {
+                        "value": 6.784052309009279E-4,
+                        "unit": "l/s"
+                    },
+                    "MAF": {
+                        "value": 2.8868307697911826E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 3.17,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62161,
+                    51.9552
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf73",
+                "time": "2013-06-08T11:34:14Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "Consumption": {
+                        "value": 6.784052309009279E-4,
+                        "unit": "l/s"
+                    },
+                    "MAF": {
+                        "value": 2.8868307697911826E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 3.17,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6216,
+                    51.9553
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7ab",
+                "time": "2013-06-08T11:34:19Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "CO2": {
+                        "value": 3.16,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 2.8777240481199176E-4,
+                        "unit": "l/s"
+                    },
+                    "Consumption": {
+                        "value": 6.762651513081806E-4,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6216,
+                    51.9553
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf75",
+                "time": "2013-06-08T11:34:19Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "CO2": {
+                        "value": 3.16,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 2.8777240481199176E-4,
+                        "unit": "l/s"
+                    },
+                    "Consumption": {
+                        "value": 6.762651513081806E-4,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62163,
+                    51.9553
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7ad",
+                "time": "2013-06-08T11:34:26Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "MAF": {
+                        "value": 2.905044213133714E-4,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "Consumption": {
+                        "value": 6.826853900864228E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 3.19,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62163,
+                    51.9553
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf77",
+                "time": "2013-06-08T11:34:26Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "MAF": {
+                        "value": 2.905044213133714E-4,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 0.0,
+                        "unit": "km/h"
+                    },
+                    "Consumption": {
+                        "value": 6.826853900864228E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 3.19,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62162,
+                    51.9553
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7af",
+                "time": "2013-06-08T11:34:31Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Consumption": {
+                        "value": 0.00189825059876695,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 19.0,
+                        "unit": "km/h"
+                    },
+                    "CO2": {
+                        "value": 8.87,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 8.077662122412553E-4,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62162,
+                    51.9553
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf79",
+                "time": "2013-06-08T11:34:31Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Consumption": {
+                        "value": 0.00189825059876695,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 19.0,
+                        "unit": "km/h"
+                    },
+                    "CO2": {
+                        "value": 8.87,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 8.077662122412553E-4,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62198,
+                    51.9554
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7b1",
+                "time": "2013-06-08T11:34:38Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "CO2": {
+                        "value": 17.19,
+                        "unit": "g/s"
+                    },
+                    "Speed": {
+                        "value": 41.0,
+                        "unit": "km/h"
+                    },
+                    "MAF": {
+                        "value": 0.00156544545529055,
+                        "unit": "l/s"
+                    },
+                    "Consumption": {
+                        "value": 0.0036787968199327925,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62198,
+                    51.9554
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf7b",
+                "time": "2013-06-08T11:34:38Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "CO2": {
+                        "value": 17.19,
+                        "unit": "g/s"
+                    },
+                    "Speed": {
+                        "value": 41.0,
+                        "unit": "km/h"
+                    },
+                    "MAF": {
+                        "value": 0.00156544545529055,
+                        "unit": "l/s"
+                    },
+                    "Consumption": {
+                        "value": 0.0036787968199327925,
+                        "unit": "l/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62278,
+                    51.9556
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7b3",
+                "time": "2013-06-08T11:34:43Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 38.0,
+                        "unit": "km/h"
+                    },
+                    "Consumption": {
+                        "value": 0.0010336584432969977,
+                        "unit": "l/s"
+                    },
+                    "MAF": {
+                        "value": 4.398546567221266E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 4.83,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62278,
+                    51.9556
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf7d",
+                "time": "2013-06-08T11:34:43Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Speed": {
+                        "value": 38.0,
+                        "unit": "km/h"
+                    },
+                    "Consumption": {
+                        "value": 0.0010336584432969977,
+                        "unit": "l/s"
+                    },
+                    "MAF": {
+                        "value": 4.398546567221266E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 4.83,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62391,
+                    51.9558
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7b5",
+                "time": "2013-06-08T11:34:50Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Consumption": {
+                        "value": 0.001003697328998534,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 33.0,
+                        "unit": "km/h"
+                    },
+                    "MAF": {
+                        "value": 4.2710524638235484E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 4.69,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62391,
+                    51.9558
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf7f",
+                "time": "2013-06-08T11:34:50Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Consumption": {
+                        "value": 0.001003697328998534,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 33.0,
+                        "unit": "km/h"
+                    },
+                    "MAF": {
+                        "value": 4.2710524638235484E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 4.69,
+                        "unit": "g/s"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62458,
+                    51.9557
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7b7",
+                "time": "2013-06-08T11:34:55Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "CO2": {
+                        "value": 4.48,
+                        "unit": "g/s"
+                    },
+                    "Consumption": {
+                        "value": 9.587556575508385E-4,
+                        "unit": "l/s"
+                    },
+                    "MAF": {
+                        "value": 4.079811308726972E-4,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 30.0,
+                        "unit": "km/h"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62458,
+                    51.9557
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf81",
+                "time": "2013-06-08T11:34:55Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "CO2": {
+                        "value": 4.48,
+                        "unit": "g/s"
+                    },
+                    "Consumption": {
+                        "value": 9.587556575508385E-4,
+                        "unit": "l/s"
+                    },
+                    "MAF": {
+                        "value": 4.079811308726972E-4,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 30.0,
+                        "unit": "km/h"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6253,
+                    51.9557
+                ]
+            },
+            "properties": {
+                "id": "51c97d05e4b0fe5a04e9e7b9",
+                "time": "2013-06-08T11:35:03Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "R 1200 GS ADV",
+                        "id": "51c96afce4b0fd063432096f",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2012,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c97d05e4b0fe5a04e9e733",
+                "phenomenons": {
+                    "Consumption": {
+                        "value": 6.463040370097169E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 3.02,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 2.7502299447221994E-4,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 11.0,
+                        "unit": "km/h"
+                    }
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6253,
+                    51.9557
+                ]
+            },
+            "properties": {
+                "id": "51c980c8e4b05956bbffcf83",
+                "time": "2013-06-08T11:35:03Z",
+                "sensor": {
+                    "type": "car",
+                    "properties": {
+                        "model": "Z4",
+                        "id": "51c97f0ee4b05956bbffcef8",
+                        "fuelType": "gasoline",
+                        "constructionYear": 2001,
+                        "manufacturer": "BMW"
+                    }
+                },
+                "track": "51c980c8e4b05956bbffcefd",
+                "phenomenons": {
+                    "Consumption": {
+                        "value": 6.463040370097169E-4,
+                        "unit": "l/s"
+                    },
+                    "CO2": {
+                        "value": 3.02,
+                        "unit": "g/s"
+                    },
+                    "MAF": {
+                        "value": 2.7502299447221994E-4,
+                        "unit": "l/s"
+                    },
+                    "Speed": {
+                        "value": 11.0,
+                        "unit": "km/h"
+                    }
+                }
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}
